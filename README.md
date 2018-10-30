@@ -1,3 +1,3 @@
 # IOIO
 
-Jula
+Jula 30.10.2018.
